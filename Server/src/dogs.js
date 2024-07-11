@@ -475,4 +475,4 @@ let dogs = [
   }
 ];
 
-module.exports = dogs;
+export default dogs
