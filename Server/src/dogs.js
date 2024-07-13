@@ -444,7 +444,7 @@ let dogs = [
       "VaccinationStatus": "Fully vaccinated",
       "NeuteredStatus": "Yes",
       "Microchipped": "Yes",
-      "MedicalHistory": ["None"],1
+      "MedicalHistory": ["None"],
       "CurrentMedications": ["None"],
       "Allergies": ["None"]
     },
