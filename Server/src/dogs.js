@@ -215,7 +215,7 @@ let dogs = [
     }
   },
   {  
-    "ID":5,
+    "ID":6,
     "BasicInfo": {
       "Name": "Molly",
       "Breed": "Bulldog",
@@ -258,7 +258,7 @@ let dogs = [
       "BestEnvironment": "A quiet home with minimal activity"
     }
   },
-  { "ID":6,
+  { "ID":7,
     "BasicInfo": {
       "Name": "Rocky",
       "Breed": "Boxer",
@@ -301,7 +301,7 @@ let dogs = [
       "BestEnvironment": "A home with a large yard and active owners"
     }
   },
-  { "ID":6,
+  { "ID":8,
     "BasicInfo": {
       "Name": "Daisy",
       "Breed": "Golden Retriever",
@@ -344,7 +344,7 @@ let dogs = [
       "BestEnvironment": "A home with access to water or a pool"
     }
   },
-  { "ID":6,
+  { "ID":9,
     "BasicInfo": {
       "Name": "Buddy",
       "Breed": "Shih Tzu",
@@ -387,7 +387,7 @@ let dogs = [
       "BestEnvironment": "A quiet home with minimal activity"
     }
   },
-  { "ID":7,
+  { "ID":10,
     "BasicInfo": {
       "Name": "Lucy",
       "Breed": "Pomeranian",
@@ -430,7 +430,7 @@ let dogs = [
       "BestEnvironment": "A home with space to play"
     }
   },
-  { "ID":8,
+  { "ID":11,
     "BasicInfo": {
       "Name": "Cooper",
       "Breed": "Border Collie",
@@ -444,7 +444,7 @@ let dogs = [
       "VaccinationStatus": "Fully vaccinated",
       "NeuteredStatus": "Yes",
       "Microchipped": "Yes",
-      "MedicalHistory": ["None"],
+      "MedicalHistory": ["None"],1
       "CurrentMedications": ["None"],
       "Allergies": ["None"]
     },
